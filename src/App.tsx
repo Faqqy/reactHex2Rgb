@@ -1,10 +1,10 @@
-import Hex from './components/Hex';
+import HexToRGB from './components/Hex';
 import '../src/index.css';
 
 function App() {
 
   return (
-      <Hex/>
+      <HexToRGB/>
   )
 }
 
